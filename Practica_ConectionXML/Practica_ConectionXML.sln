@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica_ConectionXML", "Practica_ConectionXML\Practica_ConectionXML.csproj", "{E4B297F3-568E-4E1F-A95E-FCC061BE69E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4B297F3-568E-4E1F-A95E-FCC061BE69E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B297F3-568E-4E1F-A95E-FCC061BE69E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4B297F3-568E-4E1F-A95E-FCC061BE69E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4B297F3-568E-4E1F-A95E-FCC061BE69E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5BC39E4E-7CFD-45F7-AEB1-2D239D6C53C7}
+	EndGlobalSection
+EndGlobal
