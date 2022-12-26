@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serialiacion", "Serialiacion\Serialiacion.csproj", "{5085E5E2-AF54-4659-8707-DAAB136F8804}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5085E5E2-AF54-4659-8707-DAAB136F8804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5085E5E2-AF54-4659-8707-DAAB136F8804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5085E5E2-AF54-4659-8707-DAAB136F8804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5085E5E2-AF54-4659-8707-DAAB136F8804}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {407760E0-7662-4B29-A374-B00E160334D1}
+	EndGlobalSection
+EndGlobal

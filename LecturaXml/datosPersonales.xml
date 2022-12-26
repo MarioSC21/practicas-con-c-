@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<garaje>
+    <autos>
+        <auto placa="1111AAA">
+            <marca>AUDI</marca>
+            <precio>30000</precio>
+        </auto>
+        <auto placa="2222BBB">
+            <marca>Hyundai</marca>
+            <precio>10000</precio>
+        </auto>
+        <auto placa="3333CCC">
+            <marca>BMW</marca>
+            <precio>20000</precio>
+        </auto>
+        <auto placa="4444DDD">
+            <marca>TOYOTA</marca>
+            <precio>10000</precio>
+        </auto>
+    </autos>
+</garaje>

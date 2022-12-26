@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<empresa>
+  <empleado id="1">
+    <nombre>Luuis FLORES</nombre>
+    <telefono>111111111</telefono>
+  </empleado>
+  <empleado id="2">
+    <nombre>Luuis FLORES 2</nombre>
+    <telefono>999999992</telefono>
+  </empleado>
+  <empleado id="3">
+    <nombre>Luuis FLORES 3</nombre>
+    <telefono>999999993</telefono>
+  </empleado>
+</empresa>

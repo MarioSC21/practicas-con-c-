@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LecturaXml", "LecturaXml\LecturaXml.csproj", "{AE692CE9-75AA-40F7-86BB-7136064C6A0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE692CE9-75AA-40F7-86BB-7136064C6A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE692CE9-75AA-40F7-86BB-7136064C6A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE692CE9-75AA-40F7-86BB-7136064C6A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE692CE9-75AA-40F7-86BB-7136064C6A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B53DEF5-C31A-45D5-BA64-96C5A52F9B24}
+	EndGlobalSection
+EndGlobal

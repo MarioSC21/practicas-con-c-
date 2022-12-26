@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<clsEmpleado xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ID>23</ID>
+  <Nombres>mario</Nombres>
+  <Apellidos>cs</Apellidos>
+  <Celular>121212</Celular>
+  <Email>ma2@gmail.com</Email>
+</clsEmpleado>
